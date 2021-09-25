@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T14:05:54.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ytvPp-xhfSUxeKP95FP0" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T14:34:47.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="x1DI_xcmtH5YHWpowaoc" version="15.3.2" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="1672d66443f91eb5-23" value="Projeto Aplicativo para Clínica Veterinária" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="1672d66443f91eb5-23" value="Aplicativo para Clínica Veterinária" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oT1L4C_gcIaiqXAgrMpU-1" value="Secretária" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
             <mxPoint x="630" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_2qhqRNkA49EWrrYrSD-18" value="Enviar guia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C_2qhqRNkA49EWrrYrSD-18" value="Imprimir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="890" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C_2qhqRNkA49EWrrYrSD-19" value="Extend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
